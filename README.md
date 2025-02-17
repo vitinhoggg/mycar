@@ -2,7 +2,7 @@
 
 **My Car** é um projeto desenvolvido para permitir o cadastramento de veículos em um banco de dados SQL para conclusão do primeiro semestre do curso de ADS.
 
-![screenshot](docs/assets/screenshot.png)
+![screenshot](docs/assets/screenshot.jpeg)
 
 ---
 
